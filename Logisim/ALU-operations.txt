@@ -1,0 +1,15 @@
+RISC-V ALU Instructions/Operations
+
+Select		Operations
+
+0000		Addition
+1000		Subtraction
+0001		Shift Left Logical (SLL)
+0010		Set Less Than (SLT)
+0011		Set Less Than Unsigned (SLTU)
+0100		XOR
+0101		Shift Right Logical (SRL)
+1101		Shift Right Arithmetic (SRA)
+0110		OR
+0111		AND
+
